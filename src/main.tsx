@@ -5,6 +5,7 @@ import { Theme } from "@astryxdesign/core/theme";
 import { neutralTheme } from "@astryxdesign/theme-neutral";
 import "@astryxdesign/core/astryx.css";
 import "@astryxdesign/theme-neutral/theme.css";
+import "@fontsource-variable/geist";
 import "./index.css";
 import App from "./App";
 

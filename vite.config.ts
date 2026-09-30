@@ -11,7 +11,7 @@ export default defineConfig({
       manifest: {
         name: "DRVN",
         short_name: "DRVN",
-        description: "Запись в детейлинг-студию",
+        description: "Online rezervace do detailingového studia DRVN v Praze",
         theme_color: "#050505",
         background_color: "#050505",
         display: "standalone",
